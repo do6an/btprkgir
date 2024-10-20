@@ -1,10 +1,10 @@
-# <a href="https://t.ly/btprkk">betprk.com</a>
+#<a href="https://tinyurl.com/ry8zabnn">betprk.com</a>
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<a href="https://t.ly/btprkk" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/nLk2ORyP.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
-<a href="https://t.ly/btprkk">
+<a href="https://tinyurl.com/ry8zabnn" title="ResimLink - Resim Yükle"><img src="https://r.resimlink.com/nLk2ORyP.jpg" title="ResimLink - Resim Yükle" alt="ResimLink - Resim Yükle"></a>
+<a href="https://tinyurl.com/ry8zabnn">
     <img src="https://i.pinimg.com/550x/61/6c/50/616c5094f6491c0a1816bf3f65e35de0.jpg" />
 </a>
 </a>
